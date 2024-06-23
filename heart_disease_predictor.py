@@ -9,7 +9,7 @@ import pandas as pd
  
 # Load the trained model
 
-model_path = 'C:\\Users\\Sachauke\\anaconda3\\Lib\\site-packages\\streamlit\\best_model.pkl'
+model_path = 'best_model.pkl'
 
 try:
 
@@ -103,7 +103,7 @@ import pandas as pd
  
 # Load the trained model
 
-model_path = 'C:\\Users\\Sachauke\\anaconda3\\Lib\\site-packages\\streamlit\\best_model.pkl'
+model_path = 'best_model.pkl'
 
 try:
 
