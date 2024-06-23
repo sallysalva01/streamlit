@@ -93,9 +93,6 @@ This application uses a machine learning model to predict the likelihood of hear
 
 """)
 
-[8:13 PM] Michael Duve (External)
-speedtest.net
-[8:16 PM] Michael Duve (External)
 import streamlit as st
 
 import joblib
